@@ -1,3 +1,4 @@
+using EFCoreRelationships.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
